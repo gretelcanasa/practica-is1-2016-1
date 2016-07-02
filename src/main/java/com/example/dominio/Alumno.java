@@ -1,4 +1,5 @@
-package domain;
+package com.example.dominio;
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -25,3 +26,4 @@ public class Alumno {
 		this.promedio = promedio;
 	}
 }
+Status API Training Shop Blog About
